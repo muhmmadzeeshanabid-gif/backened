@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Electronics & Tech",
+    "slug": "electronics-tech",
+    "description": "The latest smartphones, laptops, and technology.",
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "cat-2",
+    "name": "Men's Fashion",
+    "slug": "mens-fashion",
+    "description": "Apparel, watches, and shoes for men.",
+    "image": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "cat-3",
+    "name": "Women's Fashion",
+    "slug": "womens-fashion",
+    "description": "Trendy dresses, bags, shoes, and jewelry.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "cat-4",
+    "name": "Home & Lifestyle",
+    "slug": "home-and-lifestyle",
+    "description": "Furniture, decor, groceries and kitchen accessories.",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "cat-5",
+    "name": "Beauty & Personal Care",
+    "slug": "beauty-personal-care",
+    "description": "Skincare, fragrances, and beauty cosmetics.",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "cat-6",
+    "name": "Sports & Outdoors",
+    "slug": "sports-outdoors",
+    "description": "Sports gear, sunglasses, and automotive vehicles.",
+    "image": "https://images.unsplash.com/photo-1517649712539-15a2e44716b5?auto=format&fit=crop&w=500&q=60"
+  }
+]
